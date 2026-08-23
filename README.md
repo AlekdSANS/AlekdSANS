@@ -11,6 +11,15 @@
 
 ## Profile
 
+<img
+  align="right"
+  width="240"
+  src="./assets/sticker.webp"
+  alt="Business cat holding a briefcase"
+>
+
+<div align="left">
+
 <p>
   Hi everyone who stopped by my profile!
 </p>
@@ -25,6 +34,9 @@
   <b>And remember: do what you truly enjoy.</b>
 </p>
 
+</div>
+
+<br clear="right">
 
 ## Selected Work
 
