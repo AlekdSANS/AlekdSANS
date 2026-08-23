@@ -11,12 +11,13 @@
 
 ## Profile
 
-Hi everyone who stopped by my profile!
-My name is Alex, and I’m a Full-Stack Developer and Data Analyst.
-I’ve been working with development for around two years. It started mostly as a hobby, but over time I’ve been improving my skills and moving toward a professional level.
-I won’t keep you for long so if you’re interested, feel free to check out my projects :)
-**And remember: do what you truly enjoy.**
-
+<p>
+  Hi everyone who stopped by my profile!
+  My name is Alex, and I’m a Full-Stack Developer and Data Analyst.
+  I’ve been working with development for around two years. It started mostly as a hobby, but over time I’ve been improving my skills and moving toward a professional level.
+  I won’t keep you for long so if you’re interested, feel free to check out my projects :)
+  **And remember: do what you truly enjoy.**
+</p>
 
 ## Selected Work
 
