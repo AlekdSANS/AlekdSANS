@@ -11,14 +11,13 @@
 
 ## Profile
 
+<div align="left">
 <img
   align="right"
   width="240"
   src="./assets/sticker.webp"
   alt="Business cat holding a briefcase"
 >
-
-<div align="left">
 
 <p>
   Hi everyone who stopped by my profile!
