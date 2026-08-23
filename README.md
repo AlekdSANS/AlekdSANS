@@ -22,7 +22,7 @@ My work sits at the intersection of product engineering and quality. I enjoy tur
 | :--- | :--- | :--- |
 | [Avelis](https://github.com/AlekdSANS/avelis) | A full-stack fragrance storefront with a modern product experience, authenticated administration, media handling, orders, and tested API workflows. | React, TypeScript, Express, Prisma, PostgreSQL |
 | [Conversion Tracking](https://github.com/AlekdSANS/conversion-tracking) | A practical analytics playground covering consent-aware events, GTM and GA4, campaign links, forms, authentication, and serverless email flows. | React, Node.js, MongoDB, GTM, GA4 |
-| [Project ARO](https://github.com/AlekdSANS/ARO) | An interactive desktop-style experience created for ARG storytelling, with draggable windows, applications, hidden files, and puzzle-like interactions. | JavaScript, jQuery, SCSS, HTML |
+| [ARO Project Renew](https://github.com/AlekdSANS/aro-project-renew) | The active successor to the archived [Project ARO](https://github.com/AlekdSANS/ARO), continuing its interactive desktop-style ARG experience on a refreshed foundation. | In development |
 | [Man & Van](https://github.com/AlekdSANS/ManAndVan) | A multilingual service website for a transport business, presenting services, vehicle details, coverage, contact paths, and an interactive map. | HTML, CSS, JavaScript, Leaflet |
 
 ## Toolkit
