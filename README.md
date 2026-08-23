@@ -1,9 +1,6 @@
 ![Alexander — Full-Stack Developer, QA-Minded Builder, Digital Analytics](./assets/profile-header.svg)
 
 <div align="center">
-
-# Alexander
-
 ### Full-Stack Developer · QA-Minded Builder · Digital Analytics
 
 I build web products from the interface to the API and data layer, with particular attention to usability, testing, and measurable user journeys.
