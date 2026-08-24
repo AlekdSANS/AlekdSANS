@@ -1,4 +1,4 @@
-![Alexander — Full-Stack Developer, QA-Minded Builder, Digital Analytics](./assets/profile-header.gif)
+![Alexander — Full-Stack Developer, QA-Minded Builder, Digital Analytics](./assets/banner-small.gif)
 
 <div align="center">
 
