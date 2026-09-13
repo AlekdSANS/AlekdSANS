@@ -23,7 +23,7 @@
   Hi everyone who stopped by my profile!
 </p>
 <p>
-  My name is Alex, and I’m a Full-Stack Developer and Data Analyst.
+  My name is Alex, and I’m a Full-Stack Developer and PPC Specialist.
   <br>
   I’ve been working with development for around two years. It started mostly as a hobby, but over time I’ve been improving my skills and moving toward a professional level.
   <br>
