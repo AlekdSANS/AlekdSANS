@@ -41,9 +41,9 @@
 
 | Project | Overview | Built with |
 | :--- | :--- | :--- |
-| [Avelis (in development)](https://avelis-client-henna.vercel.app/) | A full-stack fragrance storefront with a modern product experience, authenticated administration, media handling, orders, and tested API workflows. | React, TypeScript, Express, Prisma, PostgreSQL |
-| [Tracking Playground](https://tracking-playground-nu.vercel.app/) | A practical analytics playground covering consent-aware events, GTM and GA4, campaign links, forms, authentication, and serverless email flows. | React, Node.js, MongoDB, GTM, GA4 |
-| [ARO Project Renew (in development)](https://github.com/AlekdSANS/aro-renewal) | The active successor to the archived [Project ARO](https://github.com/AlekdSANS/ARO), continuing its interactive desktop-style ARG experience on a refreshed foundation. | React, JavaScript, SCSS |
+| [Avelis (archived)](https://avelis-client-henna.vercel.app/) | A full-stack fragrance storefront with a modern product experience, authenticated administration, media handling, orders, and tested API workflows. | React, TypeScript, Express, Prisma, PostgreSQL |
+| [Tracking Playground (archived)](https://tracking-playground-nu.vercel.app/) | A practical analytics playground covering consent-aware events, GTM and GA4, campaign links, forms, authentication, and serverless email flows. | React, Node.js, MongoDB, GTM, GA4 |
+| [ARO Project Renew (archived)](https://github.com/AlekdSANS/aro-renewal) | The active successor to the archived [Project ARO](https://github.com/AlekdSANS/ARO), continuing its interactive desktop-style ARG experience on a refreshed foundation. | React, JavaScript, SCSS |
 | [Man & Van](https://github.com/AlekdSANS/ManAndVan) | A multilingual service website for a transport business, presenting services, vehicle details, coverage, contact paths, and an interactive map. | HTML, CSS, JavaScript, Leaflet |
 
 ## Toolkit
